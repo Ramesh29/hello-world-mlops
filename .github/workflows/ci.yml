@@ -8,7 +8,7 @@ on:
 
 jobs:
   matrix-pip:
-    name: Train and Save the model
+    name: Train Save the model
     runs-on: ubuntu-latest
     strategy:
       matrix:
