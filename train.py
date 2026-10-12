@@ -33,6 +33,7 @@ def main():
 
     print(f"Saved model to {model_path}")
     print(f"Test accuracy: {acc:.4f}")
+    print("done")
 
 if __name__ == "__main__":
     main()
